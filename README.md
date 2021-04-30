@@ -1,4 +1,4 @@
-# Object Relationships: My Pets Lab
+# OO Relationships: My Pets Lab
 
 ## Learning Goals
 
