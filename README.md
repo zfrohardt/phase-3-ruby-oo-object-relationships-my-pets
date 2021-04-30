@@ -1,10 +1,9 @@
 # Object Relationships: My Pets Lab
 
-## Objective
+## Learning Goals
 
-1.  Gain a deeper understanding of object relations.
-2.  Build classes that produce objects that interact with one another through
-    associations and behavior.
+- Gain a deeper understanding of object relations.
+- Build classes that produce objects that interact with one another through associations and behavior.
 
 ## Instructions
 
